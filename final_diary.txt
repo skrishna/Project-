@@ -1,0 +1,9 @@
+% Diary 
+% Siddhi Krishna
+
+m =  5.5000
+s =  1.9081
+mode = 5
+pval = 1.0009e-008
+tstat =  6.4144
+dof =  78

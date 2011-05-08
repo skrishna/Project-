@@ -1,0 +1,9 @@
+Licensing details are available at:
+
+http://creativecommons.org/licenses/by-nd/3.0/us/
+
+
+Siddhi Krishna
+CS177: Scientific Computing
+Prof Tim Hickey
+Spring 2011
